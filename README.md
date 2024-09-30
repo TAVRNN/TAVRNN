@@ -16,9 +16,7 @@ We present **T-AVRNN** (Temporal Attention-enhanced Variational Graph Recurrent 
     <img src="images/T-AVRNN_pipeline.png" alt="Pipeline" width="700"/>
 </div>
 
-## Data Description
 
-The dataset includes neuronal data from 24 different cultures integrated on HD-MEAs during 437 experimental sessions (262 ‘Gameplay’; 175 ‘Rest’). The data was recorded at 20 kHz sampling frequency, with spiking events from sensory and motor channels extracted for analysis. Each session contains 20 minutes of gameplay or 10 minutes of rest.
 
 ## Key Features
 
@@ -36,17 +34,20 @@ To run the code in this repository, you will need the following packages:
 
 
 ```bash
-- python 3.x
-- scikit-learn
-- scipy
-- NumPy
-- Pytorch
-pip install torch-scatter
-pip install torch-sparse
-pip install torch-cluster
-pip install torch-spline-conv
-pip install torch-geometric==1.0.2
-pip install torchvision
+cebra==0.4.0
+matplotlib==3.8.0
+networkx==3.1
+nilearn==0.10.4
+numpy==2.1.1
+pandas==2.2.3
+plotly==5.9.0
+scikit_learn==1.2.2
+scipy==1.14.1
+seaborn==0.13.2
+torch==2.4.1
+torch_geometric==2.6.1
+torch_scatter==2.1.2
+torchvision==0.19.1
 
 
 
