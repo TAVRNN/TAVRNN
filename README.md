@@ -26,7 +26,9 @@ We present **T-AVRNN** (Temporal Attention-enhanced Variational Graph Recurrent 
 
 ## Repository Structure
 
-- `T-AVRNN_DishBrain.ipynb`: Jupyter notebook containing the implementation of the T-AVRNN model and analysis.
+- `T-AVRNN_DishBrain.ipynb`: Jupyter notebook containing the implementation of the proposed T-AVRNN model and analysis.
+- 'Baselines/DynamicGEM-AE-RNN-AERNN/Baselines Dyn.ipynb`: Jupyter notebook containing the implementation of the beasline methods introduced in Goyal et al. 2020.
+- 'Baselines/GraphERT/Baseline GraphERT.ipynb`: Jupyter notebook containing the implementation of the beasline methods introduced in Beladev et al. 2023.
 
 ## Requirements
 
