@@ -2,7 +2,7 @@
 
 This repository contains the code associated with the paper:
 
-**"T-AVRNN: Attention-enhanced Variational Graph Recurrent Neural Network Captures Neural Dynamics and Behavior"**.
+**"T-AVRNN: Temporal Attention-enhanced Variational Graph Recurrent Neural Network Captures Neural Dynamics and Behavior"**.
 
 ## Abstract
 
