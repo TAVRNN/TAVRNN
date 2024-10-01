@@ -13,7 +13,7 @@ We present **TAVRNN** (Temporal Attention-enhanced Variational Graph Recurrent N
 </div>
 
 <div style="text-align: center;">
-    <img src="images/T-AVRNN_pipeline.png" alt="Pipeline" width="700"/>
+    <img src="images/TAVRNN_pipeline.png" alt="Pipeline" width="700"/>
 </div>
 
 
