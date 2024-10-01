@@ -24,6 +24,16 @@ We present **TAVRNN** (Temporal Attention-enhanced Variational Graph Recurrent N
 - **Variational Graph Recurrent Neural Network (VGRNN)**: Captures the complex interplay between network topology and node attributes.
 - **Dynamic Graph Representation**: Utilizes zero-lag Pearson correlations to construct network adjacency matrices, representing functional connectivity between neuronal channels.
 
+## Key Comparison Findings
+
+<div style="text-align: center;">
+    <img src="images/result1.png" alt="DishBrain Feedback Loop" width="700"/>
+</div>
+
+<div style="text-align: center;">
+    <img src="images/result2.png" alt="Pipeline" width="700"/>
+</div>
+
 ## Repository Structure
 
 - `TAVRNN.ipynb`: Jupyter notebook containing the implementation of the proposed TAVRNN model and analysis.
