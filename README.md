@@ -13,7 +13,7 @@ We present **T-AVRNN** (Temporal Attention-enhanced Variational Graph Recurrent 
 </div>
 
 <div style="text-align: center;">
-    <img src="images/T-AVRNN_pipeline.png" alt="Pipeline" width="700"/>
+    <img src="images/T-AVRNN_pipeline.png" alt="Pipeline" width="600"/>
 </div>
 
 
